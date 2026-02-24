@@ -1,0 +1,31 @@
+Git >> Version Control
+
+
+    v1
+    v2
+    v3
+new v4
+
+
+It is distributed(on cloud)
+>> collaboraion
+>> Tracking
+>> Recovery
+
+>>for first time need to configure github on our system
+git config --global user.name "Karunaxnwl"
+git config --global user.email "Karunaktsonowal@gmail.com"
+
+
+git config --global color.ui.vi auto
+
+Mandatory command:
+>> git  init
+>>git remote add origin https://github.com/Karunaxnwl/Gitdemo.git
+
+
+
+git pull origin main
+git status
+
+git add "file name" (to push perticular file)/git add . (to push all files not present in git hub)
