@@ -29,3 +29,12 @@ git pull origin main
 git status
 
 git add "file name" (to push perticular file)/git add . (to push all files not present in git hub)
+
+git add .
+git status
+git commit -m "commit message"
+git push
+
+
+create a new branch
+git checkout -b "branchName"
