@@ -12,12 +12,15 @@ It is distributed(on cloud)
 >> Tracking
 >> Recovery
 
+
 >>for first time need to configure github on our system
 git config --global user.name "Karunaxnwl"
 git config --global user.email "Karunaktsonowal@gmail.com"
 
 
+
 git config --global color.ui.vi auto
+
 
 Mandatory command:
 >> git  init
@@ -28,7 +31,9 @@ Mandatory command:
 git pull origin main
 git status
 
+
 git add "file name" (to push perticular file)/git add . (to push all files not present in git hub)
+
 
 git add .
 git status
@@ -36,5 +41,15 @@ git commit -m "commit message"
 git push
 
 
+
 create a new branch
 git checkout -b "branchName"
+
+
+switch the branch
+git checkout "which name which need to be opened"
+
+
+
+cloning applicstion
+git clone "https://github.com/Karunaxnwl/Gitdemo.git"4
